@@ -1,1 +1,1 @@
-# .github
+# JinSight-Cup-Challenge
